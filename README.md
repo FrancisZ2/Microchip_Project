@@ -9,11 +9,13 @@ Jan. 21: First Meeting w/ Lousie Tung, form the team, get brief introduce from M
 Jan. 26: Second Meeting w/ Lousie, show our drawing mockups, set time for next meeting, and goal
 
 - To-do List
-- 
 Release 0.1 – Jan 29: Create mockups for 
 •	Mchpweb Intranet site: determine template layout, look/feel style
+
 •	Acronym wiki page: page layout and features
+
 •	Conference room finder: page layout and features
+
 Release 0.2 – Feb 12: 
 •	Determine tools to be used for the home page, wiki page, and conference room finder
 •	Set up accounts and development environment
